@@ -7,4 +7,12 @@ Iam Using a Server port as 1200
 
 By anyone Running this Please note the Server port :)
 
+The Application is just a sample Todo App for beginners Who newly learn Spring Boot  
+
+Tech Stack I use to Create this Application :
+Java 
+Spring boot -- > ( Java Framework)
+H2 database -- > (Inbuilt Database of Spring Boot)
+thymeleaf   -- > (Front-End Framework of Spring Boot)
+
 Thanks for Visiting 
